@@ -8,5 +8,8 @@
       "esbuild",
       "unrs-resolver"
     ]
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.5"
   }
 }
